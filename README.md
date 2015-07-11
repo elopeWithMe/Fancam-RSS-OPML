@@ -2,8 +2,8 @@
 
 ### Feed Previews
 
-####<a href="http://www.inoreader.com/stream/user/1005702532/tag/Fancams/view/html">Fancams</a></br>
-####<a href="http://www.inoreader.com/stream/user/1005702532/tag/Official%20Channels/view/html">Official Channels</a></br>
-####<a href="http://www.inoreader.com/stream/user/1005702532/tag/Reddit/view/html">Subreddits</a></br>
+####<a href="http://www.inoreader.com/stream/user/1005702532/tag/Fancams/view/html">Fancams</a>
+####<a href="http://www.inoreader.com/stream/user/1005702532/tag/Official%20Channels/view/html">Official Channels</a>
+####<a href="http://www.inoreader.com/stream/user/1005702532/tag/Reddit/view/html">Subreddits</a>
 
 <img src="http://i.imgur.com/NtKrm5r.png"/>
