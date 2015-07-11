@@ -38,7 +38,6 @@
       <outline text="욘 바인첼 - yon ba in chael" title="욘 바인첼 - yon ba in chael" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQwkJEjT069ltQg7zfbJb2w" htmlUrl="http://www.youtube.com/channel/UCQwkJEjT069ltQg7zfbJb2w"/>
       <outline text="험하게컸다 HumCUT" title="험하게컸다 HumCUT" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjItC_9nZpY_5dPQyNMX_ag" htmlUrl="http://www.youtube.com/channel/UCjItC_9nZpY_5dPQyNMX_ag"/>
       <outline text="반창꼬. Band Aid" title="반창꼬. Band Aid" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCOpQkAmgP9zXUY82anhJmxQ" htmlUrl="http://www.youtube.com/channel/UCOpQkAmgP9zXUY82anhJmxQ/videos"/>
-      <outline text="Bambino Fancam (Cover Groups)" title="Bambino Fancam (Cover Groups)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoLXbdHSugFnXSCdA5Mkx1w" htmlUrl="http://www.youtube.com/channel/UCoLXbdHSugFnXSCdA5Mkx1w"/>
       <outline text="저장소 - jeo jangso (Oldies)" title="저장소 - jeo jangso (Oldies)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCiUCQ56NmhPv13QNiVzffAw" htmlUrl="http://www.youtube.com/channel/UCiUCQ56NmhPv13QNiVzffAw"/>
       <outline text="0선생 - seon saeng" title="0선생 - seon saeng" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiLV45FO1-OkNLEVBHRnWBg" htmlUrl="http://www.youtube.com/channel/UCiLV45FO1-OkNLEVBHRnWBg"/>
       <outline text="쌍댕이 - sang daeng (Sparse, Amateurs)" title="쌍댕이 - sang daeng (Sparse, Amateurs)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkPox8o3022itRQnYdvpeJA" htmlUrl="http://www.youtube.com/channel/UCkPox8o3022itRQnYdvpeJA"/>
@@ -115,6 +114,7 @@
     <outline text="Variety Shows and Other Content" title="Variety Shows and Other Content">
       <outline text="insiteTV" title="insiteTV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLQ_lTDcNOj7VzNeW0kZ17w" htmlUrl="http://www.youtube.com/user/insiteTV1"/>
       <outline text="Mnet" title="Mnet" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A" htmlUrl="http://www.youtube.com/user/Mnet"/>
+      <outline text="isaymyeolchigr" title="isaymyeolchigr" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJRFsGWvySjGfLjq53xdacQ" htmlUrl="http://www.youtube.com/channel/UCJRFsGWvySjGfLjq53xdacQ"/>
     </outline>
     <outline text="Reddit" title="Reddit">
       <outline text="AOA (Ace of Angels)" title="AOA (Ace of Angels)" type="rss" xmlUrl="https://www.reddit.com/r/AceOfAngels8/.rss" htmlUrl="https://www.reddit.com/r/AceOfAngels8/"/>
