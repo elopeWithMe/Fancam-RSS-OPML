@@ -4,90 +4,6 @@
     <title>Subscriptions of basedlee from Inoreader [http://www.inoreader.com]</title>
   </head>
   <body>
-    <outline text="Reddit" title="Reddit">
-      <outline text="AOA (Ace of Angels)" title="AOA (Ace of Angels)" type="rss" xmlUrl="https://www.reddit.com/r/AceOfAngels8/.rss" htmlUrl="https://www.reddit.com/r/AceOfAngels8/"/>
-      <outline text="/r/kpics - for all your K-Pop picture needs" title="/r/kpics - for all your K-Pop picture needs" type="rss" xmlUrl="https://www.reddit.com/r/kpics/.rss" htmlUrl="https://www.reddit.com/r/kpics/"/>
-      <outline text="After School - K-Pop Girls from Pledis Entertainment" title="After School - K-Pop Girls from Pledis Entertainment" type="rss" xmlUrl="https://www.reddit.com/r/Afterschool/.rss" htmlUrl="https://www.reddit.com/r/Afterschool/"/>
-      <outline text="Reddit 2NE1 | News, Performances, Music Videos" title="Reddit 2NE1 | News, Performances, Music Videos" type="rss" xmlUrl="https://www.reddit.com/r/2NE1/.rss" htmlUrl="https://www.reddit.com/r/2NE1/"/>
-      <outline text="Ailee - YouTube artist and K-Pop singer" title="Ailee - YouTube artist and K-Pop singer" type="rss" xmlUrl="https://www.reddit.com/r/Ailee/.rss" htmlUrl="https://www.reddit.com/r/Ailee/"/>
-      <outline text="Beside You BESTie!" title="Beside You BESTie!" type="rss" xmlUrl="https://www.reddit.com/r/BESTie/.rss" htmlUrl="https://www.reddit.com/r/BESTie/"/>
-      <outline text="bob girls" title="bob girls" type="rss" xmlUrl="https://www.reddit.com/r/Bobgirls/.rss" htmlUrl="https://www.reddit.com/r/bobgirls/"/>
-      <outline text="Brown Eyed Girls" title="Brown Eyed Girls" type="rss" xmlUrl="https://www.reddit.com/r/browneyedgirls/.rss" htmlUrl="https://www.reddit.com/r/browneyedgirls/"/>
-      <outline text="Dal★Shabet" title="Dal★Shabet" type="rss" xmlUrl="https://www.reddit.com/r/DalShabet/.rss" htmlUrl="https://www.reddit.com/r/DalShabet/"/>
-      <outline text="The k-pop group EXID" title="The k-pop group EXID" type="rss" xmlUrl="https://www.reddit.com/r/exid/.rss" htmlUrl="https://www.reddit.com/r/exid/"/>
-      <outline text="Let★s Fiestar!" title="Let★s Fiestar!" type="rss" xmlUrl="https://www.reddit.com/r/Fiestar/.rss" htmlUrl="https://www.reddit.com/r/Fiestar/"/>
-      <outline text="f(x)" title="f(x)" type="rss" xmlUrl="https://www.reddit.com/r/fxKorea/.rss" htmlUrl="https://www.reddit.com/r/fxKorea/"/>
-      <outline text="Girl's Day (걸스데이)" title="Girl's Day (걸스데이)" type="rss" xmlUrl="https://www.reddit.com/r/girlsday/.rss" htmlUrl="https://www.reddit.com/r/girlsday/"/>
-      <outline text="KARA" title="KARA" type="rss" xmlUrl="https://www.reddit.com/r/kara/.rss" htmlUrl="https://www.reddit.com/r/kara/"/>
-      <outline text="Hello Venus (헬로비너스)" title="Hello Venus (헬로비너스)" type="rss" xmlUrl="https://www.reddit.com/r/HelloVenus/.rss" htmlUrl="https://www.reddit.com/r/HelloVenus/"/>
-      <outline text="4minute" title="4minute" type="rss" xmlUrl="https://www.reddit.com/r/fourminute/.rss" htmlUrl="https://www.reddit.com/r/fourminute/"/>
-      <outline text="Kiss &amp; Cry" title="Kiss &amp; Cry" type="rss" xmlUrl="https://www.reddit.com/r/kissncry/.rss" htmlUrl="https://www.reddit.com/r/kissncry/"/>
-      <outline text="Ladies' Code" title="Ladies' Code" type="rss" xmlUrl="https://www.reddit.com/r/ladiescode/.rss" htmlUrl="https://www.reddit.com/r/LadiesCode/"/>
-      <outline text="miss A" title="miss A" type="rss" xmlUrl="https://www.reddit.com/r/missA/.rss" htmlUrl="https://www.reddit.com/r/missA/"/>
-      <outline text="Purfles" title="Purfles" type="rss" xmlUrl="https://www.reddit.com/r/Purfles/.rss" htmlUrl="https://www.reddit.com/r/purfles/"/>
-      <outline text="Nine Muses" title="Nine Muses" type="rss" xmlUrl="https://www.reddit.com/r/ninemuses/.rss" htmlUrl="https://www.reddit.com/r/ninemuses/"/>
-      <outline text="Red Velvet" title="Red Velvet" type="rss" xmlUrl="https://www.reddit.com/r/redvelvetsm/.rss" htmlUrl="https://www.reddit.com/r/redvelvetsm/"/>
-      <outline text="SECRET" title="SECRET" type="rss" xmlUrl="https://www.reddit.com/r/secrettime/.rss" htmlUrl="https://www.reddit.com/r/secrettime/"/>
-      <outline text="SiSTAR" title="SiSTAR" type="rss" xmlUrl="https://www.reddit.com/r/sistar/.rss" htmlUrl="https://www.reddit.com/r/sistar/"/>
-      <outline text="&quot;We can’t stop stop stop, 여긴 Party time!! P-A-R-T-Y!&quot;" title="&quot;We can’t stop stop stop, 여긴 Party time!! P-A-R-T-Y!&quot;" type="rss" xmlUrl="https://www.reddit.com/r/SNSD/.rss" htmlUrl="https://www.reddit.com/r/SNSD/"/>
-      <outline text="Sunny Hill" title="Sunny Hill" type="rss" xmlUrl="https://www.reddit.com/r/SunnyHill/.rss" htmlUrl="https://www.reddit.com/r/SunnyHill/"/>
-      <outline text="Tiny Giants" title="Tiny Giants" type="rss" xmlUrl="https://www.reddit.com/r/tinyg/.rss" htmlUrl="https://www.reddit.com/r/TinyG/"/>
-      <outline text="Reddit K-pop | Share and discover Korean music" title="Reddit K-pop | Share and discover Korean music" type="rss" xmlUrl="https://www.reddit.com/r/kpop/.rss" htmlUrl="https://www.reddit.com/r/kpop/"/>
-      <outline text="Wonder Girls" title="Wonder Girls" type="rss" xmlUrl="https://www.reddit.com/r/wondergirls/.rss" htmlUrl="https://www.reddit.com/r/wondergirls/"/>
-    </outline>
-    <outline text="Blogs" title="Blogs">
-      <outline text="Daisy Luna" title="Daisy Luna" type="rss" xmlUrl="http://dai5y-luna.tumblr.com/rss" htmlUrl="http://dai5y-luna.tumblr.com/"/>
-      <outline text="EYE CANDIES KPOP" title="EYE CANDIES KPOP" type="rss" xmlUrl="http://eyecandieskpop.tumblr.com/rss" htmlUrl="http://eyecandieskpop.tumblr.com/"/>
-      <outline text="십구금" title="십구금" type="rss" xmlUrl="http://19gold19.blogspot.com/feeds/posts/default" htmlUrl="http://19gold19.blogspot.com/"/>
-      <outline text="Grey Blog" title="Grey Blog" type="rss" xmlUrl="http://greynim.blogspot.com/feeds/posts/default" htmlUrl="http://greynim.blogspot.com/"/>
-      <outline text="The Wide World of Kpop Webms" title="The Wide World of Kpop Webms" type="rss" xmlUrl="http://twwkw.tumblr.com/rss" htmlUrl="http://twwkw.tumblr.com/"/>
-      <outline text="K-Pop Girls in Bikinis" title="K-Pop Girls in Bikinis" type="rss" xmlUrl="http://kpopgirlsinbikinis.tumblr.com/rss" htmlUrl="http://kpopgirlsinbikinis.tumblr.com/"/>
-      <outline text="FIDDLE" title="FIDDLE" type="rss" xmlUrl="http://fiddle.se/rss" htmlUrl="http://fiddle.se/"/>
-      <outline text="와사비콘텐츠" title="와사비콘텐츠" type="rss" xmlUrl="http://wasabcon.tistory.com/rss" htmlUrl="http://wasabcon.tistory.com/"/>
-      <outline text="PERVING ON FEMALE KPOP" title="PERVING ON FEMALE KPOP" type="rss" xmlUrl="http://pervingonfemalekpop.tumblr.com/rss" htmlUrl="http://pervingonfemalekpop.tumblr.com/"/>
-      <outline text="Wa$$up Dogil" title="Wa$$up Dogil" type="rss" xmlUrl="http://wassupgermany.tumblr.com/rss" htmlUrl="http://wassupgermany.tumblr.com/"/>
-      <outline text="Anyone looking for the paradise boss" title="Anyone looking for the paradise boss" type="rss" xmlUrl="http://paradiseboss.tumblr.com/rss" htmlUrl="http://paradiseboss.tumblr.com/"/>
-      <outline text="쌩과일상회" title="쌩과일상회" type="rss" xmlUrl="http://realfruit.tistory.com/rss" htmlUrl="http://realfruit.tistory.com/"/>
-      <outline text="soshigifapocalypse" title="soshigifapocalypse" type="rss" xmlUrl="http://soshigifapocalypse.tumblr.com/rss" htmlUrl="http://soshigifapocalypse.tumblr.com/"/>
-      <outline text="Talk Dirty (Kpop) To Me" title="Talk Dirty (Kpop) To Me" type="rss" xmlUrl="http://talkdirtykpoptome.tumblr.com/rss" htmlUrl="http://talkdirtykpoptome.tumblr.com/"/>
-      <outline text="플짤 저장소 by 아키버드" title="플짤 저장소 by 아키버드" type="rss" xmlUrl="http://www.flv.kr/rss" htmlUrl="http://www.flv.kr/"/>
-      <outline text="HELLOVENUS STUDIO" title="HELLOVENUS STUDIO" type="rss" xmlUrl="http://hvstudio.net/rss" htmlUrl="http://hvstudio.net/"/>
-    </outline>
-    <outline text="Official Channels" title="Official Channels">
-      <outline text="1theK (원더케이)" title="1theK (원더케이)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCweOkPb1wVVH0Q0Tlj4a5Pw" htmlUrl="http://www.youtube.com/user/LOENENT"/>
-      <outline text="starshipTV" title="starshipTV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYDmx2Sfpnaxg488yBpZIGg" htmlUrl="http://www.youtube.com/user/starshipTV"/>
-      <outline text="Uploads by HELLOVENUS 헬로비너스" title="Uploads by HELLOVENUS 헬로비너스" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCSshlhZx6y5hAyzPxxuSO6Q" htmlUrl="http://www.youtube.com/channel/UCSshlhZx6y5hAyzPxxuSO6Q/videos"/>
-      <outline text="KBS World TV" title="KBS World TV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5BMQOsAB8hKUyHu9KI6yig" htmlUrl="http://www.youtube.com/user/kbsworld"/>
-      <outline text="Skpb K-Music Live [KBS]" title="Skpb K-Music Live [KBS]" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCFkwp73iiRSWb5GClVcla0A" htmlUrl="http://www.youtube.com/channel/UCFkwp73iiRSWb5GClVcla0A"/>
-      <outline text="Uploads by jypentertainment" title="Uploads by jypentertainment" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg" htmlUrl="http://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg/videos"/>
-      <outline text="BESTieStory" title="BESTieStory" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzAo9AuY0XacE2tvMgSHdSA" htmlUrl="http://www.youtube.com/user/BESTieStory"/>
-      <outline text="MBK Entertainment [Official]" title="MBK Entertainment [Official]" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgxJhO66X-95iZGe4a_ku3Q" htmlUrl="http://www.youtube.com/user/coremidas"/>
-      <outline text="Uploads by CLC 씨엘씨 (Official YouTube Channel)" title="Uploads by CLC 씨엘씨 (Official YouTube Channel)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCnOTemIK0FqCe2FHbr9mWFw" htmlUrl="http://www.youtube.com/channel/UCnOTemIK0FqCe2FHbr9mWFw/videos"/>
-      <outline text="ARIRANG K-POP" title="ARIRANG K-POP" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_6zPf4uuteHFFctnQtEaXQ" htmlUrl="http://www.youtube.com/user/arirangworld"/>
-      <outline text="CJENMMUSIC Official" title="CJENMMUSIC Official" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_pwIXKXNm5KGhdEVzmY60A" htmlUrl="http://www.youtube.com/user/CJENMMUSIC"/>
-      <outline text="Uploads by AOA (에이오에이)" title="Uploads by AOA (에이오에이)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCHMMStnbsv13tXigCkW_sBQ" htmlUrl="http://www.youtube.com/channel/UCHMMStnbsv13tXigCkW_sBQ/videos"/>
-      <outline text="LADIES CODE" title="LADIES CODE" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-MlYzrnfAkW3YYqEg3j_5g" htmlUrl="http://www.youtube.com/user/LadiesCode"/>
-      <outline text="Official Minx" title="Official Minx" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYDmRVePvSpvScxIzY9mm2A" htmlUrl="http://www.youtube.com/channel/UCYDmRVePvSpvScxIzY9mm2A"/>
-      <outline text="MBCkpop" title="MBCkpop" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe52oeb7Xv_KaJsEzcKXJJg" htmlUrl="http://www.youtube.com/user/MBCkpop"/>
-      <outline text="PLEDIS OFFICIAL" title="PLEDIS OFFICIAL" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC98d8Ci5d6inCrcw-i-tgiA" htmlUrl="http://www.youtube.com/user/pledisartist"/>
-      <outline text="EXID_OFFICIAL" title="EXID_OFFICIAL" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZDD7mbBlV-Mg-vpI6wQvSA" htmlUrl="http://www.youtube.com/user/OfficialEXID"/>
-      <outline text="United CUBE (CUBE Entertainment Official YouTube Channel)" title="United CUBE (CUBE Entertainment Official YouTube Channel)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3lz95UPhKJW1aS3_za6SuQ" htmlUrl="http://www.youtube.com/user/theunitedcube"/>
-      <outline text="YGEntertainment" title="YGEntertainment" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQi67q4kGdmnJaRzX81uK5g" htmlUrl="http://www.youtube.com/user/YGEntertainment"/>
-      <outline text="SMTOWN" title="SMTOWN" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEf_Bc-KVd7onSeifS3py9g" htmlUrl="http://www.youtube.com/user/SMTOWN"/>
-      <outline text="HappyFace Entertainment" title="HappyFace Entertainment" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrkkpNg0J0ziftHs6-5APhA" htmlUrl="http://www.youtube.com/user/happyfaceent"/>
-      <outline text="4Minute 포미닛(Official YouTube Channel)" title="4Minute 포미닛(Official YouTube Channel)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_Dm4o5UrbPr2uvM7VPUR6g" htmlUrl="http://www.youtube.com/user/4minuteofficial"/>
-      <outline text="AOA (에이오에이)" title="AOA (에이오에이)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHMMStnbsv13tXigCkW_sBQ" htmlUrl="http://www.youtube.com/user/AceOfAngels8"/>
-      <outline text="2NE1" title="2NE1" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnsQjCVzmEd-YvlQZbo6zCg" htmlUrl="http://www.youtube.com/user/2NE1"/>
-      <outline text="DSPKara" title="DSPKara" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbxYZzVHUrv-AhR6KZzGo0A" htmlUrl="http://www.youtube.com/channel/UCbxYZzVHUrv-AhR6KZzGo0A"/>
-      <outline text="NineMusesCh" title="NineMusesCh" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_sOiMLKpEH39gESJCPmlw" htmlUrl="http://www.youtube.com/user/NineMusesCh"/>
-      <outline text="Official Dalshabet" title="Official Dalshabet" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCZScmulXzGFCpnEQg7aR4w" htmlUrl="http://www.youtube.com/user/dalshabet"/>
-      <outline text="G.NA 지나 (Official YouTube Channel)" title="G.NA 지나 (Official YouTube Channel)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKAAKPx4BLiwmQwC0DJ2x1w" htmlUrl="http://www.youtube.com/channel/UCKAAKPx4BLiwmQwC0DJ2x1w"/>
-      <outline text="kt music" title="kt music" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCd-OrgPLrnQiQBcq19j5oEQ" htmlUrl="http://www.youtube.com/channel/UCd-OrgPLrnQiQBcq19j5oEQ"/>
-    </outline>
-    <outline text="Variety Shows and Other Content" title="Variety Shows and Other Content">
-      <outline text="insiteTV" title="insiteTV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLQ_lTDcNOj7VzNeW0kZ17w" htmlUrl="http://www.youtube.com/user/insiteTV1"/>
-      <outline text="Mnet" title="Mnet" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A" htmlUrl="http://www.youtube.com/user/Mnet"/>
-    </outline>
     <outline text="Fancams" title="Fancams">
       <outline text="pharkil 2015" title="pharkil 2015" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCU_vu6ZgG4Zi7h4xRL6dwDQ" htmlUrl="http://www.youtube.com/channel/UCU_vu6ZgG4Zi7h4xRL6dwDQ/videos"/>
       <outline text="drighk fancam 2015" title="drighk fancam 2015" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCj2Rx-rb_g0lu1-dn2seZ2w" htmlUrl="http://www.youtube.com/channel/UCj2Rx-rb_g0lu1-dn2seZ2w/videos"/>
@@ -146,6 +62,90 @@
       <outline text="DaftTaengk (Hiatus 2012)" title="DaftTaengk (Hiatus 2012)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCrTCkJ8377E7JhsMeyLXtKA" htmlUrl="http://www.youtube.com/channel/UCrTCkJ8377E7JhsMeyLXtKA/videos"/>
       <outline text="EyeYou Fancam (Hiatus 2014" title="EyeYou Fancam (Hiatus 2014" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkaTfyfB6qFWEl5VqL5vpQg" htmlUrl="http://www.youtube.com/channel/UCkaTfyfB6qFWEl5VqL5vpQg"/>
       <outline text="toodul1004 (Hiatus 2013)" title="toodul1004 (Hiatus 2013)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEl1ZKKlta-aov12zKpT37Q" htmlUrl="http://www.youtube.com/channel/UCEl1ZKKlta-aov12zKpT37Q"/>
+    </outline>
+    <outline text="Official Channels" title="Official Channels">
+      <outline text="1theK (원더케이)" title="1theK (원더케이)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCweOkPb1wVVH0Q0Tlj4a5Pw" htmlUrl="http://www.youtube.com/user/LOENENT"/>
+      <outline text="starshipTV" title="starshipTV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYDmx2Sfpnaxg488yBpZIGg" htmlUrl="http://www.youtube.com/user/starshipTV"/>
+      <outline text="Uploads by HELLOVENUS 헬로비너스" title="Uploads by HELLOVENUS 헬로비너스" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCSshlhZx6y5hAyzPxxuSO6Q" htmlUrl="http://www.youtube.com/channel/UCSshlhZx6y5hAyzPxxuSO6Q/videos"/>
+      <outline text="KBS World TV" title="KBS World TV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5BMQOsAB8hKUyHu9KI6yig" htmlUrl="http://www.youtube.com/user/kbsworld"/>
+      <outline text="Skpb K-Music Live [KBS]" title="Skpb K-Music Live [KBS]" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCFkwp73iiRSWb5GClVcla0A" htmlUrl="http://www.youtube.com/channel/UCFkwp73iiRSWb5GClVcla0A"/>
+      <outline text="Uploads by jypentertainment" title="Uploads by jypentertainment" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCaO6TYtlC8U5ttz62hTrZgg" htmlUrl="http://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg/videos"/>
+      <outline text="BESTieStory" title="BESTieStory" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzAo9AuY0XacE2tvMgSHdSA" htmlUrl="http://www.youtube.com/user/BESTieStory"/>
+      <outline text="MBK Entertainment [Official]" title="MBK Entertainment [Official]" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgxJhO66X-95iZGe4a_ku3Q" htmlUrl="http://www.youtube.com/user/coremidas"/>
+      <outline text="Uploads by CLC 씨엘씨 (Official YouTube Channel)" title="Uploads by CLC 씨엘씨 (Official YouTube Channel)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCnOTemIK0FqCe2FHbr9mWFw" htmlUrl="http://www.youtube.com/channel/UCnOTemIK0FqCe2FHbr9mWFw/videos"/>
+      <outline text="ARIRANG K-POP" title="ARIRANG K-POP" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_6zPf4uuteHFFctnQtEaXQ" htmlUrl="http://www.youtube.com/user/arirangworld"/>
+      <outline text="CJENMMUSIC Official" title="CJENMMUSIC Official" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_pwIXKXNm5KGhdEVzmY60A" htmlUrl="http://www.youtube.com/user/CJENMMUSIC"/>
+      <outline text="Uploads by AOA (에이오에이)" title="Uploads by AOA (에이오에이)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCHMMStnbsv13tXigCkW_sBQ" htmlUrl="http://www.youtube.com/channel/UCHMMStnbsv13tXigCkW_sBQ/videos"/>
+      <outline text="LADIES CODE" title="LADIES CODE" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-MlYzrnfAkW3YYqEg3j_5g" htmlUrl="http://www.youtube.com/user/LadiesCode"/>
+      <outline text="Official Minx" title="Official Minx" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYDmRVePvSpvScxIzY9mm2A" htmlUrl="http://www.youtube.com/channel/UCYDmRVePvSpvScxIzY9mm2A"/>
+      <outline text="MBCkpop" title="MBCkpop" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe52oeb7Xv_KaJsEzcKXJJg" htmlUrl="http://www.youtube.com/user/MBCkpop"/>
+      <outline text="PLEDIS OFFICIAL" title="PLEDIS OFFICIAL" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC98d8Ci5d6inCrcw-i-tgiA" htmlUrl="http://www.youtube.com/user/pledisartist"/>
+      <outline text="EXID_OFFICIAL" title="EXID_OFFICIAL" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZDD7mbBlV-Mg-vpI6wQvSA" htmlUrl="http://www.youtube.com/user/OfficialEXID"/>
+      <outline text="United CUBE (CUBE Entertainment Official YouTube Channel)" title="United CUBE (CUBE Entertainment Official YouTube Channel)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3lz95UPhKJW1aS3_za6SuQ" htmlUrl="http://www.youtube.com/user/theunitedcube"/>
+      <outline text="YGEntertainment" title="YGEntertainment" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQi67q4kGdmnJaRzX81uK5g" htmlUrl="http://www.youtube.com/user/YGEntertainment"/>
+      <outline text="SMTOWN" title="SMTOWN" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEf_Bc-KVd7onSeifS3py9g" htmlUrl="http://www.youtube.com/user/SMTOWN"/>
+      <outline text="HappyFace Entertainment" title="HappyFace Entertainment" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrkkpNg0J0ziftHs6-5APhA" htmlUrl="http://www.youtube.com/user/happyfaceent"/>
+      <outline text="4Minute 포미닛(Official YouTube Channel)" title="4Minute 포미닛(Official YouTube Channel)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_Dm4o5UrbPr2uvM7VPUR6g" htmlUrl="http://www.youtube.com/user/4minuteofficial"/>
+      <outline text="AOA (에이오에이)" title="AOA (에이오에이)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHMMStnbsv13tXigCkW_sBQ" htmlUrl="http://www.youtube.com/user/AceOfAngels8"/>
+      <outline text="2NE1" title="2NE1" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnsQjCVzmEd-YvlQZbo6zCg" htmlUrl="http://www.youtube.com/user/2NE1"/>
+      <outline text="DSPKara" title="DSPKara" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbxYZzVHUrv-AhR6KZzGo0A" htmlUrl="http://www.youtube.com/channel/UCbxYZzVHUrv-AhR6KZzGo0A"/>
+      <outline text="NineMusesCh" title="NineMusesCh" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_sOiMLKpEH39gESJCPmlw" htmlUrl="http://www.youtube.com/user/NineMusesCh"/>
+      <outline text="Official Dalshabet" title="Official Dalshabet" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCZScmulXzGFCpnEQg7aR4w" htmlUrl="http://www.youtube.com/user/dalshabet"/>
+      <outline text="G.NA 지나 (Official YouTube Channel)" title="G.NA 지나 (Official YouTube Channel)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKAAKPx4BLiwmQwC0DJ2x1w" htmlUrl="http://www.youtube.com/channel/UCKAAKPx4BLiwmQwC0DJ2x1w"/>
+      <outline text="kt music" title="kt music" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCd-OrgPLrnQiQBcq19j5oEQ" htmlUrl="http://www.youtube.com/channel/UCd-OrgPLrnQiQBcq19j5oEQ"/>
+    </outline>
+    <outline text="Blogs" title="Blogs">
+      <outline text="Daisy Luna" title="Daisy Luna" type="rss" xmlUrl="http://dai5y-luna.tumblr.com/rss" htmlUrl="http://dai5y-luna.tumblr.com/"/>
+      <outline text="EYE CANDIES KPOP" title="EYE CANDIES KPOP" type="rss" xmlUrl="http://eyecandieskpop.tumblr.com/rss" htmlUrl="http://eyecandieskpop.tumblr.com/"/>
+      <outline text="십구금" title="십구금" type="rss" xmlUrl="http://19gold19.blogspot.com/feeds/posts/default" htmlUrl="http://19gold19.blogspot.com/"/>
+      <outline text="Grey Blog" title="Grey Blog" type="rss" xmlUrl="http://greynim.blogspot.com/feeds/posts/default" htmlUrl="http://greynim.blogspot.com/"/>
+      <outline text="The Wide World of Kpop Webms" title="The Wide World of Kpop Webms" type="rss" xmlUrl="http://twwkw.tumblr.com/rss" htmlUrl="http://twwkw.tumblr.com/"/>
+      <outline text="K-Pop Girls in Bikinis" title="K-Pop Girls in Bikinis" type="rss" xmlUrl="http://kpopgirlsinbikinis.tumblr.com/rss" htmlUrl="http://kpopgirlsinbikinis.tumblr.com/"/>
+      <outline text="FIDDLE" title="FIDDLE" type="rss" xmlUrl="http://fiddle.se/rss" htmlUrl="http://fiddle.se/"/>
+      <outline text="와사비콘텐츠" title="와사비콘텐츠" type="rss" xmlUrl="http://wasabcon.tistory.com/rss" htmlUrl="http://wasabcon.tistory.com/"/>
+      <outline text="PERVING ON FEMALE KPOP" title="PERVING ON FEMALE KPOP" type="rss" xmlUrl="http://pervingonfemalekpop.tumblr.com/rss" htmlUrl="http://pervingonfemalekpop.tumblr.com/"/>
+      <outline text="Wa$$up Dogil" title="Wa$$up Dogil" type="rss" xmlUrl="http://wassupgermany.tumblr.com/rss" htmlUrl="http://wassupgermany.tumblr.com/"/>
+      <outline text="Anyone looking for the paradise boss" title="Anyone looking for the paradise boss" type="rss" xmlUrl="http://paradiseboss.tumblr.com/rss" htmlUrl="http://paradiseboss.tumblr.com/"/>
+      <outline text="쌩과일상회" title="쌩과일상회" type="rss" xmlUrl="http://realfruit.tistory.com/rss" htmlUrl="http://realfruit.tistory.com/"/>
+      <outline text="soshigifapocalypse" title="soshigifapocalypse" type="rss" xmlUrl="http://soshigifapocalypse.tumblr.com/rss" htmlUrl="http://soshigifapocalypse.tumblr.com/"/>
+      <outline text="Talk Dirty (Kpop) To Me" title="Talk Dirty (Kpop) To Me" type="rss" xmlUrl="http://talkdirtykpoptome.tumblr.com/rss" htmlUrl="http://talkdirtykpoptome.tumblr.com/"/>
+      <outline text="플짤 저장소 by 아키버드" title="플짤 저장소 by 아키버드" type="rss" xmlUrl="http://www.flv.kr/rss" htmlUrl="http://www.flv.kr/"/>
+      <outline text="HELLOVENUS STUDIO" title="HELLOVENUS STUDIO" type="rss" xmlUrl="http://hvstudio.net/rss" htmlUrl="http://hvstudio.net/"/>
+    </outline>
+    <outline text="Variety Shows and Other Content" title="Variety Shows and Other Content">
+      <outline text="insiteTV" title="insiteTV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLQ_lTDcNOj7VzNeW0kZ17w" htmlUrl="http://www.youtube.com/user/insiteTV1"/>
+      <outline text="Mnet" title="Mnet" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A" htmlUrl="http://www.youtube.com/user/Mnet"/>
+    </outline>
+    <outline text="Reddit" title="Reddit">
+      <outline text="AOA (Ace of Angels)" title="AOA (Ace of Angels)" type="rss" xmlUrl="https://www.reddit.com/r/AceOfAngels8/.rss" htmlUrl="https://www.reddit.com/r/AceOfAngels8/"/>
+      <outline text="/r/kpics - for all your K-Pop picture needs" title="/r/kpics - for all your K-Pop picture needs" type="rss" xmlUrl="https://www.reddit.com/r/kpics/.rss" htmlUrl="https://www.reddit.com/r/kpics/"/>
+      <outline text="After School - K-Pop Girls from Pledis Entertainment" title="After School - K-Pop Girls from Pledis Entertainment" type="rss" xmlUrl="https://www.reddit.com/r/Afterschool/.rss" htmlUrl="https://www.reddit.com/r/Afterschool/"/>
+      <outline text="Reddit 2NE1 | News, Performances, Music Videos" title="Reddit 2NE1 | News, Performances, Music Videos" type="rss" xmlUrl="https://www.reddit.com/r/2NE1/.rss" htmlUrl="https://www.reddit.com/r/2NE1/"/>
+      <outline text="Ailee - YouTube artist and K-Pop singer" title="Ailee - YouTube artist and K-Pop singer" type="rss" xmlUrl="https://www.reddit.com/r/Ailee/.rss" htmlUrl="https://www.reddit.com/r/Ailee/"/>
+      <outline text="Beside You BESTie!" title="Beside You BESTie!" type="rss" xmlUrl="https://www.reddit.com/r/BESTie/.rss" htmlUrl="https://www.reddit.com/r/BESTie/"/>
+      <outline text="bob girls" title="bob girls" type="rss" xmlUrl="https://www.reddit.com/r/Bobgirls/.rss" htmlUrl="https://www.reddit.com/r/bobgirls/"/>
+      <outline text="Brown Eyed Girls" title="Brown Eyed Girls" type="rss" xmlUrl="https://www.reddit.com/r/browneyedgirls/.rss" htmlUrl="https://www.reddit.com/r/browneyedgirls/"/>
+      <outline text="Dal★Shabet" title="Dal★Shabet" type="rss" xmlUrl="https://www.reddit.com/r/DalShabet/.rss" htmlUrl="https://www.reddit.com/r/DalShabet/"/>
+      <outline text="The k-pop group EXID" title="The k-pop group EXID" type="rss" xmlUrl="https://www.reddit.com/r/exid/.rss" htmlUrl="https://www.reddit.com/r/exid/"/>
+      <outline text="Let★s Fiestar!" title="Let★s Fiestar!" type="rss" xmlUrl="https://www.reddit.com/r/Fiestar/.rss" htmlUrl="https://www.reddit.com/r/Fiestar/"/>
+      <outline text="f(x)" title="f(x)" type="rss" xmlUrl="https://www.reddit.com/r/fxKorea/.rss" htmlUrl="https://www.reddit.com/r/fxKorea/"/>
+      <outline text="Girl's Day (걸스데이)" title="Girl's Day (걸스데이)" type="rss" xmlUrl="https://www.reddit.com/r/girlsday/.rss" htmlUrl="https://www.reddit.com/r/girlsday/"/>
+      <outline text="KARA" title="KARA" type="rss" xmlUrl="https://www.reddit.com/r/kara/.rss" htmlUrl="https://www.reddit.com/r/kara/"/>
+      <outline text="Hello Venus (헬로비너스)" title="Hello Venus (헬로비너스)" type="rss" xmlUrl="https://www.reddit.com/r/HelloVenus/.rss" htmlUrl="https://www.reddit.com/r/HelloVenus/"/>
+      <outline text="4minute" title="4minute" type="rss" xmlUrl="https://www.reddit.com/r/fourminute/.rss" htmlUrl="https://www.reddit.com/r/fourminute/"/>
+      <outline text="Kiss &amp; Cry" title="Kiss &amp; Cry" type="rss" xmlUrl="https://www.reddit.com/r/kissncry/.rss" htmlUrl="https://www.reddit.com/r/kissncry/"/>
+      <outline text="Ladies' Code" title="Ladies' Code" type="rss" xmlUrl="https://www.reddit.com/r/ladiescode/.rss" htmlUrl="https://www.reddit.com/r/LadiesCode/"/>
+      <outline text="miss A" title="miss A" type="rss" xmlUrl="https://www.reddit.com/r/missA/.rss" htmlUrl="https://www.reddit.com/r/missA/"/>
+      <outline text="Purfles" title="Purfles" type="rss" xmlUrl="https://www.reddit.com/r/Purfles/.rss" htmlUrl="https://www.reddit.com/r/purfles/"/>
+      <outline text="Nine Muses" title="Nine Muses" type="rss" xmlUrl="https://www.reddit.com/r/ninemuses/.rss" htmlUrl="https://www.reddit.com/r/ninemuses/"/>
+      <outline text="Red Velvet" title="Red Velvet" type="rss" xmlUrl="https://www.reddit.com/r/redvelvetsm/.rss" htmlUrl="https://www.reddit.com/r/redvelvetsm/"/>
+      <outline text="SECRET" title="SECRET" type="rss" xmlUrl="https://www.reddit.com/r/secrettime/.rss" htmlUrl="https://www.reddit.com/r/secrettime/"/>
+      <outline text="SiSTAR" title="SiSTAR" type="rss" xmlUrl="https://www.reddit.com/r/sistar/.rss" htmlUrl="https://www.reddit.com/r/sistar/"/>
+      <outline text="&quot;We can’t stop stop stop, 여긴 Party time!! P-A-R-T-Y!&quot;" title="&quot;We can’t stop stop stop, 여긴 Party time!! P-A-R-T-Y!&quot;" type="rss" xmlUrl="https://www.reddit.com/r/SNSD/.rss" htmlUrl="https://www.reddit.com/r/SNSD/"/>
+      <outline text="Sunny Hill" title="Sunny Hill" type="rss" xmlUrl="https://www.reddit.com/r/SunnyHill/.rss" htmlUrl="https://www.reddit.com/r/SunnyHill/"/>
+      <outline text="Tiny Giants" title="Tiny Giants" type="rss" xmlUrl="https://www.reddit.com/r/tinyg/.rss" htmlUrl="https://www.reddit.com/r/TinyG/"/>
+      <outline text="Reddit K-pop | Share and discover Korean music" title="Reddit K-pop | Share and discover Korean music" type="rss" xmlUrl="https://www.reddit.com/r/kpop/.rss" htmlUrl="https://www.reddit.com/r/kpop/"/>
+      <outline text="Wonder Girls" title="Wonder Girls" type="rss" xmlUrl="https://www.reddit.com/r/wondergirls/.rss" htmlUrl="https://www.reddit.com/r/wondergirls/"/>
     </outline>
   </body>
 </opml>
