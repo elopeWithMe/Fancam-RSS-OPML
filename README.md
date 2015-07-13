@@ -13,10 +13,10 @@
 
 <strong>[Picture Tutorial](http://imgur.com/a/brEwL)</strong>
 
-1) Download the .xml OPML file via the github right sidebar or [click here](https://github.com/elopeWithMe/Fancam-RSS-OPML/archive/master.zip) 
+<strong>1)</strong> Download the .xml OPML file via the github right sidebar or [click here](https://github.com/elopeWithMe/Fancam-RSS-OPML/archive/master.zip) 
 
-2) Import it to your favourite RSS reader (Preferences > Import/Export in Inoreader)
+<strong>2)</strong> Import it to your favourite RSS reader <strong>(Top Bar Gear Icon > Preferences > Import/Export in Inoreader)</strong>
 
-3) I recommend www.inoreader.com because you can go to Preferences > OPML Subscriptions > New Subscription and enter https://raw.githubusercontent.com/elopeWithMe/Fancam-RSS-OPML/master/Fancams.xml to subscribe to the file and receive automatic updates. 
+<strong>3)</strong> I recommend www.inoreader.com because you can go to <strong>Top Bar Gear Icon > Preferences > OPML Subscriptions > New Subscription</strong> and enter https://raw.githubusercontent.com/elopeWithMe/Fancam-RSS-OPML/master/Fancams.xml to subscribe to the file and receive automatic updates. 
 
-4) To properly sync your feeds with the most recent one you might have to delete all current subscriptions (Preferences > Subscriptions > Mark All > Unsubscribe in inoreader)
+<strong>4)</strong> To properly sync your feeds with the most recent one you might have to delete all current subscriptions <strong>(Top Bar Gear Icon > Preferences > Subscriptions > Mark All > Unsubscribe in inoreader)</strong>
