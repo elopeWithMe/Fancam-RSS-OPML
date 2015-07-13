@@ -11,6 +11,8 @@
 
 ###Instructions:
 
+<strong>[Picture Tutorial](http://imgur.com/a/brEwL)</strong>
+
 1) Download the .xml OPML file via the github right sidebar or [click here](https://github.com/elopeWithMe/Fancam-RSS-OPML/archive/master.zip) 
 
 2) Import it to your favourite RSS reader (Presferences > Import/Export in Inoreader)
