@@ -4,72 +4,62 @@
     <title>Subscriptions of basedlee from Inoreader [http://www.inoreader.com]</title>
   </head>
   <body>
-    <outline text="St.319 Production Team" title="St.319 Production Team" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnVteUNlhr1SqCjTQx0PDQ" htmlUrl="http://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ/videos"/>
-    <outline text="쇼리" title="쇼리" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC1x3zVQBLhsFjb6LGZ3qYNw" htmlUrl="http://www.youtube.com/channel/UC1x3zVQBLhsFjb6LGZ3qYNw"/>
-    <outline text="이아연" title="이아연" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC7gYQZTGdrWZUHIpRfPvCVg" htmlUrl="http://www.youtube.com/channel/UC7gYQZTGdrWZUHIpRfPvCVg"/>
-    <outline text="SPONG" title="SPONG" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCpbXTtURqGWDRfAV87axJTA" htmlUrl="http://www.youtube.com/channel/UCpbXTtURqGWDRfAV87axJTA"/>
-    <outline text="동키 B" title="동키 B" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCzZ7xlS0ZMoNjWdRZJidrmw" htmlUrl="http://www.youtube.com/channel/UCzZ7xlS0ZMoNjWdRZJidrmw"/>
-    <outline text="여금" title="여금" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCiJ5P4oRNFoU_l6JehDeSA" htmlUrl="http://www.youtube.com/channel/UCCiJ5P4oRNFoU_l6JehDeSA"/>
-    <outline text="여자여자 GIRLS GIRLS official" title="여자여자 GIRLS GIRLS official" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCx89yX7v37cQ7fchXjqt_mQ" htmlUrl="http://www.youtube.com/channel/UCx89yX7v37cQ7fchXjqt_mQ"/>
-    <outline text="폭주Alice" title="폭주Alice" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWciuKrX4DfgsSskKcdE3cg" htmlUrl="http://www.youtube.com/channel/UCWciuKrX4DfgsSskKcdE3cg"/>
-    <outline text="SNL코리아" title="SNL코리아" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsRIHt5FkbGc6cQtCxt-ufA" htmlUrl="http://www.youtube.com/user/oSNLKOREAo"/>
-    <outline text="까리뽕삼" title="까리뽕삼" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA6Wc3WbZbs3Eu530K-kAOg" htmlUrl="http://www.youtube.com/channel/UCA6Wc3WbZbs3Eu530K-kAOg"/>
-    <outline text="kha" title="kha" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC-dkmaCdEKZyCaZC3Yp_i3g" htmlUrl="http://www.youtube.com/channel/UC-dkmaCdEKZyCaZC3Yp_i3g"/>
-    <outline text="bright me up !" title="bright me up !" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCIGulvpCRGW0lj4ZWl1c4sw" htmlUrl="http://www.youtube.com/channel/UCIGulvpCRGW0lj4ZWl1c4sw"/>
-    <outline text="Lucy Rose" title="Lucy Rose" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCf3Uw3jxirXjKKjJ8QKDxfw" htmlUrl="http://www.youtube.com/channel/UCf3Uw3jxirXjKKjJ8QKDxfw"/>
-    <outline text="ksh850817.tistory.com" title="ksh850817.tistory.com" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHWD-59eMtnaZVp4DhdlffA" htmlUrl="http://www.youtube.com/channel/UCHWD-59eMtnaZVp4DhdlffA"/>
-    <outline text="허윤미 허니TV" title="허윤미 허니TV" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCGdBIFa-EHM-ctGs6qOyUdg" htmlUrl="http://www.youtube.com/channel/UCGdBIFa-EHM-ctGs6qOyUdg"/>
-    <outline text="林小宏 (taiwan perfs)" title="林小宏 (taiwan perfs)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCB_1YAWyNgm1YVgX5PzAkOw" htmlUrl="http://www.youtube.com/channel/UCB_1YAWyNgm1YVgX5PzAkOw"/>
-    <outline text="셀빠 (variety shows)" title="셀빠 (variety shows)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFOWvzoRkDydCx1fNGvd_2A" htmlUrl="http://www.youtube.com/user/selbbar"/>
-    <outline text="CP-STUDIO" title="CP-STUDIO" type="rss" xmlUrl="http://cp-studio.net/rss" htmlUrl="http://cp-studio.net/"/>
+    <outline text="에스제이 콘텐츠 매거진" title="에스제이 콘텐츠 매거진" type="rss" xmlUrl="http://sjcontents.tistory.com/rss" htmlUrl="http://sjcontents.tistory.com/"/>
+    <outline text="G BBp" title="G BBp" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCpim_dAb08sJlVuonggvx2w" htmlUrl="http://www.youtube.com/channel/UCpim_dAb08sJlVuonggvx2w"/>
+    <outline text="쵸리" title="쵸리" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC7jIJZThCxAA1bRHY_NavVw" htmlUrl="http://www.youtube.com/channel/UC7jIJZThCxAA1bRHY_NavVw"/>
+    <outline text="세상을 여는창" title="세상을 여는창" type="rss" xmlUrl="http://mpeg94970.tistory.com/rss" htmlUrl="http://mpeg94970.tistory.com/"/>
+    <outline text="동수아빠의 블로그" title="동수아빠의 블로그" type="rss" xmlUrl="http://blog.daum.net/xml/rss/kjm44" htmlUrl="http://blog.daum.net/kjm44"/>
+    <outline text="플래시 게임 재미나넷" title="플래시 게임 재미나넷" type="rss" xmlUrl="http://www.zemina.net/rss" htmlUrl="http://www.zemina.net/"/>
+    <outline text="나뮤닷컴" title="나뮤닷컴" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClBuSSqTPkc76wOFJ1l0fzg" htmlUrl="http://www.youtube.com/channel/UClBuSSqTPkc76wOFJ1l0fzg"/>
+    <outline text="NineIn Heaven" title="NineIn Heaven" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC7NK39zgpnaJXAJyPorRP8w" htmlUrl="http://www.youtube.com/channel/UC7NK39zgpnaJXAJyPorRP8w"/>
     <outline text="Fancams" title="Fancams">
       <outline text="DCSYGALL" title="DCSYGALL" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC_15wEbJL2qreRWPWUJgE4Q" htmlUrl="http://www.youtube.com/channel/UC_15wEbJL2qreRWPWUJgE4Q/videos"/>
       <outline text="by mojito" title="by mojito" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UClvBlFaoC01eFlUQkNU3JqQ" htmlUrl="http://www.youtube.com/channel/UClvBlFaoC01eFlUQkNU3JqQ"/>
       <outline text="harry park" title="harry park" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC794dRxUVJl_iL6v_XoYqPQ" htmlUrl="http://www.youtube.com/channel/UC794dRxUVJl_iL6v_XoYqPQ"/>
+      <outline text="플레이아데스" title="플레이아데스" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCuukwwEVYJ5ZKKWEDP5NaTQ" htmlUrl="http://www.youtube.com/channel/UCuukwwEVYJ5ZKKWEDP5NaTQ/videos"/>
       <outline text="A@Z" title="A@Z" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCyIylX58lRb90YFCMRpd6Tg" htmlUrl="http://www.youtube.com/channel/UCyIylX58lRb90YFCMRpd6Tg"/>
       <outline text="camboy" title="camboy" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC25Ug6Fv2Lo15LJOxd9SUsw" htmlUrl="http://www.youtube.com/channel/UC25Ug6Fv2Lo15LJOxd9SUsw"/>
-      <outline text="플레이아데스" title="플레이아데스" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCuukwwEVYJ5ZKKWEDP5NaTQ" htmlUrl="http://www.youtube.com/channel/UCuukwwEVYJ5ZKKWEDP5NaTQ/videos"/>
       <outline text="초아요♥" title="초아요♥" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGvboQoPsA7lUiS42QBaQBg" htmlUrl="http://www.youtube.com/channel/UCGvboQoPsA7lUiS42QBaQBg"/>
       <outline text="채널 하늘별(skynight)" title="채널 하늘별(skynight)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC-kbEF-gdtMCQdVknmefiiA" htmlUrl="http://www.youtube.com/channel/UC-kbEF-gdtMCQdVknmefiiA"/>
       <outline text="해리〃민경" title="해리〃민경" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCzcmGNGccTyXrkFcvUcMOig" htmlUrl="http://www.youtube.com/channel/UCzcmGNGccTyXrkFcvUcMOig"/>
       <outline text="Rock Music" title="Rock Music" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC8yPhlmo-4MY5ZfF-cw3JRg" htmlUrl="http://www.youtube.com/channel/UC8yPhlmo-4MY5ZfF-cw3JRg"/>
       <outline text="FIESTAR STORY" title="FIESTAR STORY" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCOznkqx1_mNiRozQb9VDezA" htmlUrl="http://www.youtube.com/channel/UCOznkqx1_mNiRozQb9VDezA/videos"/>
-      <outline text="mang2goon" title="mang2goon" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCZ-l3cfBR3azwsmAzlcTf7Q" htmlUrl="http://www.youtube.com/channel/UCZ-l3cfBR3azwsmAzlcTf7Q/videos"/>
       <outline text="kj lee" title="kj lee" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCMRkR_1IwAYeEwpDu5BL5zQ" htmlUrl="http://www.youtube.com/channel/UCMRkR_1IwAYeEwpDu5BL5zQ/videos"/>
-      <outline text="정예린닷컴" title="정예린닷컴" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC_4_i6axeVAxX6Gjrh0cxyg" htmlUrl="http://www.youtube.com/channel/UC_4_i6axeVAxX6Gjrh0cxyg"/>
-      <outline text="SIXBOMB" title="SIXBOMB" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCvEVkWPJgvJHP2KH-otNZnw" htmlUrl="http://www.youtube.com/channel/UCvEVkWPJgvJHP2KH-otNZnw"/>
       <outline text="초아요♥" title="초아요♥" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCGvboQoPsA7lUiS42QBaQBg" htmlUrl="http://www.youtube.com/channel/UCGvboQoPsA7lUiS42QBaQBg"/>
       <outline text="SBR 미니" title="SBR 미니" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCruhI87IQtkuZ78pcPhg5ng" htmlUrl="http://www.youtube.com/channel/UCruhI87IQtkuZ78pcPhg5ng"/>
       <outline text="샤부링" title="샤부링" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCJ5XhKWBDEewLpzYsKqmhyw" htmlUrl="http://www.youtube.com/channel/UCJ5XhKWBDEewLpzYsKqmhyw"/>
       <outline text="hi cong" title="hi cong" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCcPRgYpWn1OjBfAqxq87Z_Q" htmlUrl="http://www.youtube.com/channel/UCcPRgYpWn1OjBfAqxq87Z_Q/videos"/>
+      <outline text="정예린닷컴" title="정예린닷컴" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC_4_i6axeVAxX6Gjrh0cxyg" htmlUrl="http://www.youtube.com/channel/UC_4_i6axeVAxX6Gjrh0cxyg"/>
+      <outline text="SIXBOMB" title="SIXBOMB" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCvEVkWPJgvJHP2KH-otNZnw" htmlUrl="http://www.youtube.com/channel/UCvEVkWPJgvJHP2KH-otNZnw"/>
       <outline text="Athrun™" title="Athrun™" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC-F8lRBeGIkoibuTop1-0sg" htmlUrl="http://www.youtube.com/channel/UC-F8lRBeGIkoibuTop1-0sg/videos"/>
       <outline text="Heim dallr (no bias cams)" title="Heim dallr (no bias cams)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC4vwbbkn5aX9olcdr-SNLtw" htmlUrl="http://www.youtube.com/channel/UC4vwbbkn5aX9olcdr-SNLtw/videos"/>
       <outline text="Dir Purpled" title="Dir Purpled" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC3nWhQTbA_rkjyZmkOUZthg" htmlUrl="http://www.youtube.com/channel/UC3nWhQTbA_rkjyZmkOUZthg/videos"/>
       <outline text="Shaytyen" title="Shaytyen" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCCjHxNtBhAU37hL-Tzn_UDQ" htmlUrl="http://www.youtube.com/channel/UCCjHxNtBhAU37hL-Tzn_UDQ/videos"/>
-      <outline text="Ajacijoa" title="Ajacijoa" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFkp6Vp-ORbjUGdzL-H5L7g" htmlUrl="http://www.youtube.com/channel/UCFkp6Vp-ORbjUGdzL-H5L7g"/>
       <outline text="윤상명" title="윤상명" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCWdNEzIAhxUq2uGeEGN3S7g" htmlUrl="http://www.youtube.com/channel/UCWdNEzIAhxUq2uGeEGN3S7g/videos"/>
+      <outline text="Ajacijoa" title="Ajacijoa" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFkp6Vp-ORbjUGdzL-H5L7g" htmlUrl="http://www.youtube.com/channel/UCFkp6Vp-ORbjUGdzL-H5L7g"/>
       <outline text="By Caffe Latte (mostly cover groups)" title="By Caffe Latte (mostly cover groups)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCVUuzG8C8LWhroTgpmL6M2A" htmlUrl="https://www.youtube.com/channel/UCVUuzG8C8LWhroTgpmL6M2A/videos"/>
       <outline text="rlekflayou" title="rlekflayou" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCWhvZMljyhRe5FR-AND0EBA" htmlUrl="http://www.youtube.com/channel/UCWhvZMljyhRe5FR-AND0EBA/videos"/>
+      <outline text="힙합가이" title="힙합가이" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC4ZsaUtdPtivLNNI5kozlDQ" htmlUrl="http://www.youtube.com/channel/UC4ZsaUtdPtivLNNI5kozlDQ"/>
       <outline text="fireMM 불끄무" title="fireMM 불끄무" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC5Jf-uKSzaZfKt4V0NhnG0w" htmlUrl="http://www.youtube.com/channel/UC5Jf-uKSzaZfKt4V0NhnG0w"/>
       <outline text="Shaytyen" title="Shaytyen" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCjHxNtBhAU37hL-Tzn_UDQ" htmlUrl="http://www.youtube.com/channel/UCCjHxNtBhAU37hL-Tzn_UDQ"/>
       <outline text="stella 스텔라" title="stella 스텔라" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCbNoqfoPtzUVj1ee-ckBdvQ" htmlUrl="http://www.youtube.com/channel/UCbNoqfoPtzUVj1ee-ckBdvQ/videos"/>
       <outline text="smile -wA-" title="smile -wA-" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCxv6SRNqPZfgwgPNomcPetg" htmlUrl="http://www.youtube.com/channel/UCxv6SRNqPZfgwgPNomcPetg/videos"/>
       <outline text="DarkSniper" title="DarkSniper" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSchpSD9Wlt36ioI218DjMg" htmlUrl="http://www.youtube.com/user/Darksnipercam"/>
-      <outline text="힙합가이" title="힙합가이" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC4ZsaUtdPtivLNNI5kozlDQ" htmlUrl="http://www.youtube.com/channel/UC4ZsaUtdPtivLNNI5kozlDQ"/>
-      <outline text="석진이" title="석진이" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCuSe10YWxwN_oHFCxmT_0IQ" htmlUrl="http://www.youtube.com/channel/UCuSe10YWxwN_oHFCxmT_0IQ"/>
       <outline text="cyidra" title="cyidra" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQftSPlGQY8JjX2m8tKO9JA" htmlUrl="http://www.youtube.com/channel/UCQftSPlGQY8JjX2m8tKO9JA"/>
+      <outline text="석진이" title="석진이" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCuSe10YWxwN_oHFCxmT_0IQ" htmlUrl="http://www.youtube.com/channel/UCuSe10YWxwN_oHFCxmT_0IQ"/>
       <outline text="RGRMSGtv (many cover groups)" title="RGRMSGtv (many cover groups)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCOhtlP8wcl6TRm4zEjOa9dw" htmlUrl="http://www.youtube.com/channel/UCOhtlP8wcl6TRm4zEjOa9dw"/>
       <outline text="hoya sama" title="hoya sama" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMBwfAHRlKdpvAY72oael8g" htmlUrl="http://www.youtube.com/channel/UCMBwfAHRlKdpvAY72oael8g"/>
       <outline text="미조니" title="미조니" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCRCrlKTpQXfL1dM7JXw19FQ" htmlUrl="http://www.youtube.com/channel/UCRCrlKTpQXfL1dM7JXw19FQ"/>
       <outline text="Dal tears" title="Dal tears" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC1_1wFLXCilaz9my9nWJXjA" htmlUrl="http://www.youtube.com/channel/UC1_1wFLXCilaz9my9nWJXjA/videos"/>
       <outline text="와썹Mix" title="와썹Mix" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCe5UmfMpH-ghQvA0nO9obUQ" htmlUrl="https://www.youtube.com/channel/UCe5UmfMpH-ghQvA0nO9obUQ/videos"/>
+      <outline text="Kuniklo" title="Kuniklo" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrno9ZNH6Q3LBD9L7wL6MjA" htmlUrl="http://www.youtube.com/channel/UCrno9ZNH6Q3LBD9L7wL6MjA"/>
       <outline text="theiu930516" title="theiu930516" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDFGDeb9W_MjP485L76RKVw" htmlUrl="http://www.youtube.com/user/theiu930516"/>
       <outline text="김새롬" title="김새롬" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCr4l_VPcKfVkE1JWYyLGIbQ" htmlUrl="http://www.youtube.com/channel/UCr4l_VPcKfVkE1JWYyLGIbQ"/>
-      <outline text="Kuniklo" title="Kuniklo" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrno9ZNH6Q3LBD9L7wL6MjA" htmlUrl="http://www.youtube.com/channel/UCrno9ZNH6Q3LBD9L7wL6MjA"/>
       <outline text="eSpoir" title="eSpoir" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCTwlRZIBbQNXNkbAVc6fVnw" htmlUrl="http://www.youtube.com/channel/UCTwlRZIBbQNXNkbAVc6fVnw"/>
       <outline text="특수기동대" title="특수기동대" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCRrL7Ak19ErUe2dScyejHwA" htmlUrl="http://www.youtube.com/channel/UCRrL7Ak19ErUe2dScyejHwA"/>
       <outline text="남라 (weird angles)" title="남라 (weird angles)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCRd1JhRYfhN5Ao-WKa_sPNg" htmlUrl="http://www.youtube.com/channel/UCRd1JhRYfhN5Ao-WKa_sPNg"/>
       <outline text="Uekara mariko" title="Uekara mariko" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC86SHr15dVkpWdO9L9BjxPw" htmlUrl="http://www.youtube.com/channel/UC86SHr15dVkpWdO9L9BjxPw"/>
+      <outline text="GANG_SHIN GANG_SHIN" title="GANG_SHIN GANG_SHIN" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCswtVNsU00ybzLjqP9ZvhsQ" htmlUrl="http://www.youtube.com/channel/UCswtVNsU00ybzLjqP9ZvhsQ/videos"/>
       <outline text="헬비츄" title="헬비츄" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC0BG0H8IO0jTC5_Hv1st8KA" htmlUrl="http://www.youtube.com/channel/UC0BG0H8IO0jTC5_Hv1st8KA"/>
       <outline text="D ace" title="D ace" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMJ9EcvlKTCXnTSCz9C1qsA" htmlUrl="http://www.youtube.com/channel/UCMJ9EcvlKTCXnTSCz9C1qsA"/>
       <outline text="Charm Sheep Jyo" title="Charm Sheep Jyo" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCdvhRERZ9OWfGongOy06TYg" htmlUrl="http://www.youtube.com/channel/UCdvhRERZ9OWfGongOy06TYg"/>
@@ -118,15 +108,18 @@
       <outline text="z a m" title="z a m" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCv6colBP34LrC9xxf0lzQag" htmlUrl="http://www.youtube.com/channel/UCv6colBP34LrC9xxf0lzQag/videos"/>
       <outline text="SSo LEE" title="SSo LEE" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGBE4noFu4fSZom-F8QLu2w" htmlUrl="http://www.youtube.com/channel/UCGBE4noFu4fSZom-F8QLu2w"/>
       <outline text="By.SODA" title="By.SODA" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCr9rd2GvsuoqXtZBmTnj5EA" htmlUrl="http://www.youtube.com/channel/UCr9rd2GvsuoqXtZBmTnj5EA"/>
+      <outline text="lEtudel" title="lEtudel" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmluYHFpXNxXhabzn87kPfA" htmlUrl="http://www.youtube.com/channel/UCmluYHFpXNxXhabzn87kPfA"/>
       <outline text="w_i_t_r" title="w_i_t_r" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UChtKBr_N1qS7piUkzJuMyNA" htmlUrl="http://www.youtube.com/channel/UChtKBr_N1qS7piUkzJuMyNA/videos"/>
       <outline text="PIERCE" title="PIERCE" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHmmTQp2cnoCUsCLYHecsng" htmlUrl="http://www.youtube.com/channel/UCHmmTQp2cnoCUsCLYHecsng"/>
       <outline text="drighk (old account)" title="drighk (old account)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?user=drighk" htmlUrl="http://www.youtube.com/user/drighk/videos"/>
+      <outline text="pharkil" title="pharkil" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCuN9yuqJWM6CeqqUKPFckhA" htmlUrl="http://www.youtube.com/channel/UCuN9yuqJWM6CeqqUKPFckhA/videos"/>
       <outline text="pharkil (old account)" title="pharkil (old account)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuN9yuqJWM6CeqqUKPFckhA" htmlUrl="http://www.youtube.com/user/pharkil"/>
       <outline text="gfdgdfg gdfgdfg (Cheerleader Covers)" title="gfdgdfg gdfgdfg (Cheerleader Covers)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCDvXD_wCn5ZxC1Z21lHaoDQ" htmlUrl="http://www.youtube.com/channel/UCDvXD_wCn5ZxC1Z21lHaoDQ"/>
       <outline text="ohbest" title="ohbest" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCazFO4LJ61agdwKGKeHYGEg" htmlUrl="http://www.youtube.com/user/ohbesttv"/>
       <outline text="DATANEWS KMH" title="DATANEWS KMH" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW0DxkjJlQ7YRs3UiyGOIcg" htmlUrl="http://www.youtube.com/user/spdstudio"/>
       <outline text="PlayMnet" title="PlayMnet" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCepUWUpH45hRTi-QePdq1Bg" htmlUrl="http://www.youtube.com/channel/UCepUWUpH45hRTi-QePdq1Bg/videos"/>
       <outline text="dorappi2000" title="dorappi2000" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCNlmrKRHLHcd2gq6LtPOTlQ" htmlUrl="http://www.youtube.com/channel/UCNlmrKRHLHcd2gq6LtPOTlQ/videos"/>
+      <outline text="drighk" title="drighk" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCCreCOjTs1N7Lga-4uyKvZg" htmlUrl="http://www.youtube.com/channel/UCCreCOjTs1N7Lga-4uyKvZg/videos"/>
       <outline text="Jellybeannose (Thick Thighs, Covers)" title="Jellybeannose (Thick Thighs, Covers)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_702WDURchotfpSdfr1SLw" htmlUrl="http://www.youtube.com/channel/UC_702WDURchotfpSdfr1SLw"/>
       <outline text="SKY 스카이 (c-studio.tistory.com)" title="SKY 스카이 (c-studio.tistory.com)" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCVv11_oZgmhun9qHjQrzOFg" htmlUrl="http://www.youtube.com/channel/UCVv11_oZgmhun9qHjQrzOFg/videos"/>
       <outline text="nmworld9" title="nmworld9" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAuToyd8gBy8mxwde1YTheA" htmlUrl="http://www.youtube.com/channel/UCAuToyd8gBy8mxwde1YTheA"/>
@@ -162,7 +155,33 @@
       <outline text="EyeYou Fancam (Hiatus 2014" title="EyeYou Fancam (Hiatus 2014" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkaTfyfB6qFWEl5VqL5vpQg" htmlUrl="http://www.youtube.com/channel/UCkaTfyfB6qFWEl5VqL5vpQg"/>
       <outline text="toodul1004 (Hiatus 2013)" title="toodul1004 (Hiatus 2013)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEl1ZKKlta-aov12zKpT37Q" htmlUrl="http://www.youtube.com/channel/UCEl1ZKKlta-aov12zKpT37Q"/>
     </outline>
+    <outline text="Covers" title="Covers">
+      <outline text="St.319 Production Team" title="St.319 Production Team" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCSnVteUNlhr1SqCjTQx0PDQ" htmlUrl="http://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ/videos"/>
+      <outline text="허윤미 허니TV" title="허윤미 허니TV" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCGdBIFa-EHM-ctGs6qOyUdg" htmlUrl="http://www.youtube.com/channel/UCGdBIFa-EHM-ctGs6qOyUdg"/>
+      <outline text="이아연" title="이아연" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC7gYQZTGdrWZUHIpRfPvCVg" htmlUrl="http://www.youtube.com/channel/UC7gYQZTGdrWZUHIpRfPvCVg"/>
+    </outline>
+    <outline text="BJs" title="BJs">
+      <outline text="에블린 bj" title="에블린 bj" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCbbKpxMLQnjRUspHf0sxxfQ" htmlUrl="http://www.youtube.com/channel/UCbbKpxMLQnjRUspHf0sxxfQ"/>
+    </outline>
+    <outline text="Ghettocams" title="Ghettocams">
+      <outline text="ohbest" title="ohbest" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCazFO4LJ61agdwKGKeHYGEg" htmlUrl="http://www.youtube.com/channel/UCazFO4LJ61agdwKGKeHYGEg/videos"/>
+      <outline text="BGP925님의 채널" title="BGP925님의 채널" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfZwQjzScIWW5nydNZl8UAQ" htmlUrl="http://www.youtube.com/channel/UCfZwQjzScIWW5nydNZl8UAQ"/>
+      <outline text="여금" title="여금" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCiJ5P4oRNFoU_l6JehDeSA" htmlUrl="http://www.youtube.com/channel/UCCiJ5P4oRNFoU_l6JehDeSA"/>
+      <outline text="동키 B" title="동키 B" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCzZ7xlS0ZMoNjWdRZJidrmw" htmlUrl="http://www.youtube.com/channel/UCzZ7xlS0ZMoNjWdRZJidrmw"/>
+      <outline text="SPONG" title="SPONG" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCpbXTtURqGWDRfAV87axJTA" htmlUrl="http://www.youtube.com/channel/UCpbXTtURqGWDRfAV87axJTA"/>
+      <outline text="쇼리" title="쇼리" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC1x3zVQBLhsFjb6LGZ3qYNw" htmlUrl="http://www.youtube.com/channel/UC1x3zVQBLhsFjb6LGZ3qYNw"/>
+      <outline text="폭주Alice" title="폭주Alice" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWciuKrX4DfgsSskKcdE3cg" htmlUrl="http://www.youtube.com/channel/UCWciuKrX4DfgsSskKcdE3cg"/>
+      <outline text="까리뽕삼" title="까리뽕삼" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCA6Wc3WbZbs3Eu530K-kAOg" htmlUrl="http://www.youtube.com/channel/UCA6Wc3WbZbs3Eu530K-kAOg"/>
+      <outline text="kha" title="kha" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC-dkmaCdEKZyCaZC3Yp_i3g" htmlUrl="http://www.youtube.com/channel/UC-dkmaCdEKZyCaZC3Yp_i3g"/>
+      <outline text="bright me up !" title="bright me up !" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCIGulvpCRGW0lj4ZWl1c4sw" htmlUrl="http://www.youtube.com/channel/UCIGulvpCRGW0lj4ZWl1c4sw"/>
+      <outline text="Lucy Rose" title="Lucy Rose" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCf3Uw3jxirXjKKjJ8QKDxfw" htmlUrl="http://www.youtube.com/channel/UCf3Uw3jxirXjKKjJ8QKDxfw"/>
+      <outline text="ksh850817.tistory.com" title="ksh850817.tistory.com" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHWD-59eMtnaZVp4DhdlffA" htmlUrl="http://www.youtube.com/channel/UCHWD-59eMtnaZVp4DhdlffA"/>
+      <outline text="林小宏 (taiwan perfs)" title="林小宏 (taiwan perfs)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCB_1YAWyNgm1YVgX5PzAkOw" htmlUrl="http://www.youtube.com/channel/UCB_1YAWyNgm1YVgX5PzAkOw"/>
+    </outline>
     <outline text="Official Channels" title="Official Channels">
+      <outline text="BESTieStory" title="BESTieStory" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCzAo9AuY0XacE2tvMgSHdSA" htmlUrl="http://www.youtube.com/channel/UCzAo9AuY0XacE2tvMgSHdSA"/>
+      <outline text="여자여자 GIRLS GIRLS official" title="여자여자 GIRLS GIRLS official" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCx89yX7v37cQ7fchXjqt_mQ" htmlUrl="http://www.youtube.com/channel/UCx89yX7v37cQ7fchXjqt_mQ"/>
+      <outline text="Mnet" title="Mnet" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A" htmlUrl="http://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A/videos"/>
       <outline text="1theK (원더케이)" title="1theK (원더케이)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCweOkPb1wVVH0Q0Tlj4a5Pw" htmlUrl="http://www.youtube.com/user/LOENENT"/>
       <outline text="starshipTV" title="starshipTV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYDmx2Sfpnaxg488yBpZIGg" htmlUrl="http://www.youtube.com/user/starshipTV"/>
       <outline text="Uploads by HELLOVENUS 헬로비너스" title="Uploads by HELLOVENUS 헬로비너스" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCSshlhZx6y5hAyzPxxuSO6Q" htmlUrl="http://www.youtube.com/channel/UCSshlhZx6y5hAyzPxxuSO6Q/videos"/>
@@ -197,11 +216,50 @@
       <outline text="KPOP PORN" title="KPOP PORN" type="rss" xmlUrl="http://fuckyeahkpop-porn.tumblr.com/rss" htmlUrl="http://fuckyeahkpop-porn.tumblr.com/"/>
       <outline text="sexy k-pop" title="sexy k-pop" type="rss" xmlUrl="http://kp0p-tara10xx.tumblr.com/rss" htmlUrl="http://kp0p-tara10xx.tumblr.com/"/>
       <outline text="ones" title="ones" type="rss" xmlUrl="http://ones0409.tistory.com/rss" htmlUrl="http://ones0409.tistory.com/"/>
+      <outline text="EyeYou" title="EyeYou" type="rss" xmlUrl="http://eyeyou.tistory.com/rss" htmlUrl="http://eyeyou.tistory.com/"/>
       <outline text="HQ Kpop Girls" title="HQ Kpop Girls" type="rss" xmlUrl="http://hqkpopgirls.tumblr.com/rss" htmlUrl="http://hqkpopgirls.tumblr.com/"/>
       <outline text="Korean Magazine Lovers" title="Korean Magazine Lovers" type="rss" xmlUrl="http://kmagazinelovers.tumblr.com/rss" htmlUrl="http://kmagazinelovers.tumblr.com/"/>
+      <outline text="소니 카메라와 함께하는 행복한 꿈 만들기" title="소니 카메라와 함께하는 행복한 꿈 만들기" type="rss" xmlUrl="http://bubleprice.tistory.com/rss" htmlUrl="http://bubleprice.tistory.com/"/>
       <outline text="Studio-G" title="Studio-G" type="rss" xmlUrl="http://studio-g.tistory.com/rss" htmlUrl="http://studio-g.tistory.com/"/>
+      <outline text="COMEKPOP" title="COMEKPOP" type="rss" xmlUrl="http://comekpop.tumblr.com/rss" htmlUrl="http://comekpop.tumblr.com/"/>
       <outline text=":: Raina Studio ::" title=":: Raina Studio ::" type="rss" xmlUrl="http://raina57.tistory.com/rss" htmlUrl="http://raina57.tistory.com/"/>
+      <outline text="toodur2 tistory" title="toodur2 tistory" type="rss" xmlUrl="http://toodur2.tistory.com/rss" htmlUrl="http://toodur2.tistory.com/"/>
+      <outline text="M2G 's Photo Line" title="M2G 's Photo Line" type="rss" xmlUrl="http://mang2goon.tistory.com/rss" htmlUrl="http://mang2goon.tistory.com/"/>
+      <outline text="올 아이돌 닷컴" title="올 아이돌 닷컴" type="rss" xmlUrl="http://all-idol.com/rss" htmlUrl="http://all-idol.com/"/>
+      <outline text="STAR GALLERY" title="STAR GALLERY" type="rss" xmlUrl="http://justclick.tistory.com/rss" htmlUrl="http://justclick.tistory.com/"/>
+      <outline text="Yellow Slug Reviews" title="Yellow Slug Reviews" type="rss" xmlUrl="https://yellowslugreviews.wordpress.com/feed/" htmlUrl="https://yellowslugreviews.wordpress.com/"/>
+      <outline text="DC다현쓰" title="DC다현쓰" type="rss" xmlUrl="http://dahyunth.tistory.com/rss" htmlUrl="http://dahyunth.tistory.com/"/>
+      <outline text="Leg Beauty" title="Leg Beauty" type="rss" xmlUrl="http://leg-beauty.tumblr.com/rss" htmlUrl="http://leg-beauty.tumblr.com/"/>
+      <outline text="IU STUDIO" title="IU STUDIO" type="rss" xmlUrl="http://iustudio.tistory.com/rss" htmlUrl="http://iustudio.tistory.com/"/>
+      <outline text="아이돌박스" title="아이돌박스" type="rss" xmlUrl="http://idolbox.tistory.com/rss" htmlUrl="http://idolbox.tistory.com/"/>
+      <outline text="first snow" title="first snow" type="rss" xmlUrl="http://tipannies.tumblr.com/rss" htmlUrl="http://tipannies.tumblr.com/"/>
+      <outline text="k-gírls.pú.ssy" title="k-gírls.pú.ssy" type="rss" xmlUrl="http://k-pxssy.tumblr.com/rss" htmlUrl="http://k-pxssy.tumblr.com/"/>
+      <outline text="HOTBAR" title="HOTBAR" type="rss" xmlUrl="http://hotbar.tistory.com/rss" htmlUrl="http://hotbar.tistory.com/"/>
+      <outline text="K-GIRLS" title="K-GIRLS" type="rss" xmlUrl="http://k-girls.tistory.com/rss" htmlUrl="http://k-girls.tistory.com/"/>
+      <outline text="VIIV" title="VIIV" type="rss" xmlUrl="http://gangviiv.tistory.com/rss" htmlUrl="http://gangviiv.tistory.com/"/>
+      <outline text="해롱아" title="해롱아" type="rss" xmlUrl="http://haeronga.tistory.com/rss" htmlUrl="http://haeronga.tistory.com/"/>
+      <outline text="블로그" title="블로그" type="rss" xmlUrl="http://tistoryblogforme.tistory.com/rss" htmlUrl="http://tistoryblogforme.tistory.com/"/>
+      <outline text="All of Kpop's SMEXY godesses!" title="All of Kpop's SMEXY godesses!" type="rss" xmlUrl="http://smexykpop.tumblr.com/rss" htmlUrl="http://smexykpop.tumblr.com/"/>
+      <outline text="VisualStylish▶ Images" title="VisualStylish▶ Images" type="rss" xmlUrl="http://visualstylish.com/rss" htmlUrl="http://visualstylish.com/"/>
+      <outline text="레오전" title="레오전" type="rss" xmlUrl="http://legendx2.tistory.com/rss" htmlUrl="http://legendx2.tistory.com/"/>
+      <outline text="K-Pop Girls Pussy" title="K-Pop Girls Pussy" type="rss" xmlUrl="http://fyeahkpoppussy.tumblr.com/rss" htmlUrl="http://fyeahkpoppussy.tumblr.com/"/>
+      <outline text="Lots of Kpop Gifs!" title="Lots of Kpop Gifs!" type="rss" xmlUrl="http://lotsofkpopgifs.tumblr.com/rss" htmlUrl="http://lotsofkpopgifs.tumblr.com/"/>
+      <outline text="boxgame의 tistory" title="boxgame의 tistory" type="rss" xmlUrl="http://boxgame.tistory.com/rss" htmlUrl="http://boxgame.tistory.com/"/>
+      <outline text="Heavenising" title="Heavenising" type="rss" xmlUrl="http://heavenising.tistory.com/rss" htmlUrl="http://heavenising.tistory.com/"/>
+      <outline text="걸그룹 여자친구 팬블로그♥" title="걸그룹 여자친구 팬블로그♥" type="rss" xmlUrl="http://beautyeunha0530.tistory.com/rss" htmlUrl="http://beautyeunha0530.tistory.com/"/>
+      <outline text="WIN THE GAME" title="WIN THE GAME" type="rss" xmlUrl="http://winthegame.tistory.com/rss" htmlUrl="http://winthegame.tistory.com/"/>
+      <outline text="덕질은 인생의 낭비다" title="덕질은 인생의 낭비다" type="rss" xmlUrl="http://theiu.tistory.com/rss" htmlUrl="http://theiu.tistory.com/"/>
       <outline text="tim" title="tim" type="rss" xmlUrl="http://jangseungyeons.tumblr.com/rss" htmlUrl="http://jangseungyeons.tumblr.com/"/>
+      <outline text="The Studio" title="The Studio" type="rss" xmlUrl="http://thestudio.kr/rss" htmlUrl="http://thestudio.kr/"/>
+      <outline text="다시, 또 다시" title="다시, 또 다시" type="rss" xmlUrl="http://skyblues.tistory.com/rss" htmlUrl="http://skyblues.tistory.com/"/>
+      <outline text="Assist" title="Assist" type="rss" xmlUrl="http://assistmain.tistory.com/rss" htmlUrl="http://assistmain.tistory.com/"/>
+      <outline text="K-pop Legs" title="K-pop Legs" type="rss" xmlUrl="http://k-poplegs.tumblr.com/rss" htmlUrl="http://k-poplegs.tumblr.com/"/>
+      <outline text="우연히현영의 블로그" title="우연히현영의 블로그" type="rss" xmlUrl="http://wooyeon724.tistory.com/rss" htmlUrl="http://wooyeon724.tistory.com/"/>
+      <outline text="버들류 움짤" title="버들류 움짤" type="rss" xmlUrl="http://mars6724.tistory.com/rss" htmlUrl="http://mars6724.tistory.com/"/>
+      <outline text="fyhasiansexygirl" title="fyhasiansexygirl" type="rss" xmlUrl="http://fyhasiansexygirl.tumblr.com/rss" htmlUrl="http://fyhasiansexygirl.tumblr.com/"/>
+      <outline text="도롱뇽의이별" title="도롱뇽의이별" type="rss" xmlUrl="http://rongebye.tistory.com/rss" htmlUrl="http://rongebye.tistory.com/"/>
+      <outline text="my design" title="my design" type="rss" xmlUrl="http://inuwadesign.tistory.com/rss" htmlUrl="http://inuwadesign.tistory.com/"/>
+      <outline text="CP-STUDIO" title="CP-STUDIO" type="rss" xmlUrl="http://cp-studio.net/rss" htmlUrl="http://cp-studio.net/"/>
       <outline text="Daisy Luna" title="Daisy Luna" type="rss" xmlUrl="http://dai5y-luna.tumblr.com/rss" htmlUrl="http://dai5y-luna.tumblr.com/"/>
       <outline text="EYE CANDIES KPOP" title="EYE CANDIES KPOP" type="rss" xmlUrl="http://eyecandieskpop.tumblr.com/rss" htmlUrl="http://eyecandieskpop.tumblr.com/"/>
       <outline text="십구금" title="십구금" type="rss" xmlUrl="http://19gold19.blogspot.com/feeds/posts/default" htmlUrl="http://19gold19.blogspot.com/"/>
@@ -218,12 +276,22 @@
       <outline text="Talk Dirty (Kpop) To Me" title="Talk Dirty (Kpop) To Me" type="rss" xmlUrl="http://talkdirtykpoptome.tumblr.com/rss" htmlUrl="http://talkdirtykpoptome.tumblr.com/"/>
       <outline text="HELLOVENUS STUDIO" title="HELLOVENUS STUDIO" type="rss" xmlUrl="http://hvstudio.net/rss" htmlUrl="http://hvstudio.net/"/>
     </outline>
+    <outline text="Other Instagrams" title="Other Instagrams">
+      <outline text="vampybitme's photos | Iconosquare - Instagram Web Viewer" title="vampybitme's photos | Iconosquare - Instagram Web Viewer" type="rss" xmlUrl="http://iconosquare.com/feed/vampybitme" htmlUrl="http://iconosquare.com/vampybitme"/>
+      <outline text="jessicanigri's photos | Iconosquare - Instagram Web Viewer" title="jessicanigri's photos | Iconosquare - Instagram Web Viewer" type="rss" xmlUrl="http://iconosquare.com/feed/jessicanigri" htmlUrl="http://iconosquare.com/jessicanigri"/>
+      <outline text="yayahan's photos | Iconosquare - Instagram Web Viewer" title="yayahan's photos | Iconosquare - Instagram Web Viewer" type="rss" xmlUrl="http://iconosquare.com/feed/yayahan" htmlUrl="http://iconosquare.com/yayahan"/>
+      <outline text="lesliemunoz's photos | Iconosquare - Instagram Web Viewer" title="lesliemunoz's photos | Iconosquare - Instagram Web Viewer" type="rss" xmlUrl="http://iconosquare.com/feed/lesliemunoz" htmlUrl="http://iconosquare.com/lesliemunoz"/>
+    </outline>
     <outline text="Variety Shows and Other Content" title="Variety Shows and Other Content">
+      <outline text="SNL코리아" title="SNL코리아" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsRIHt5FkbGc6cQtCxt-ufA" htmlUrl="http://www.youtube.com/user/oSNLKOREAo"/>
+      <outline text="GLANCE" title="GLANCE" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC_l9kWfiUS3_-DNymjyo-Zg" htmlUrl="http://www.youtube.com/channel/UC_l9kWfiUS3_-DNymjyo-Zg"/>
+      <outline text="셀빠 (variety shows)" title="셀빠 (variety shows)" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFOWvzoRkDydCx1fNGvd_2A" htmlUrl="http://www.youtube.com/user/selbbar"/>
       <outline text="insiteTV" title="insiteTV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLQ_lTDcNOj7VzNeW0kZ17w" htmlUrl="http://www.youtube.com/user/insiteTV1"/>
       <outline text="Mnet" title="Mnet" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbD8EppRX3ZwJSou-TVo90A" htmlUrl="http://www.youtube.com/user/Mnet"/>
       <outline text="isaymyeolchigr" title="isaymyeolchigr" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJRFsGWvySjGfLjq53xdacQ" htmlUrl="http://www.youtube.com/channel/UCJRFsGWvySjGfLjq53xdacQ"/>
     </outline>
     <outline text="Reddit" title="Reddit">
+      <outline text="CuteKorean" title="CuteKorean" type="rss" xmlUrl="http://www.reddit.com/r/cutekorean/.rss" htmlUrl="http://www.reddit.com/r/cutekorean/"/>
       <outline text="AOA (Ace of Angels)" title="AOA (Ace of Angels)" type="rss" xmlUrl="https://www.reddit.com/r/AceOfAngels8/.rss" htmlUrl="https://www.reddit.com/r/AceOfAngels8/"/>
       <outline text="/r/kpics - for all your K-Pop picture needs" title="/r/kpics - for all your K-Pop picture needs" type="rss" xmlUrl="https://www.reddit.com/r/kpics/.rss" htmlUrl="https://www.reddit.com/r/kpics/"/>
       <outline text="After School - K-Pop Girls from Pledis Entertainment" title="After School - K-Pop Girls from Pledis Entertainment" type="rss" xmlUrl="https://www.reddit.com/r/Afterschool/.rss" htmlUrl="https://www.reddit.com/r/Afterschool/"/>
@@ -253,6 +321,11 @@
       <outline text="Tiny Giants" title="Tiny Giants" type="rss" xmlUrl="https://www.reddit.com/r/tinyg/.rss" htmlUrl="https://www.reddit.com/r/TinyG/"/>
       <outline text="Reddit K-pop | Share and discover Korean music" title="Reddit K-pop | Share and discover Korean music" type="rss" xmlUrl="https://www.reddit.com/r/kpop/.rss" htmlUrl="https://www.reddit.com/r/kpop/"/>
       <outline text="Wonder Girls" title="Wonder Girls" type="rss" xmlUrl="https://www.reddit.com/r/wondergirls/.rss" htmlUrl="https://www.reddit.com/r/wondergirls/"/>
+    </outline>
+    <outline text="Fitness Models" title="Fitness Models">
+      <outline text="yena.fit1/'s photos | Iconosquare - Instagram Web Viewer" title="yena.fit1/'s photos | Iconosquare - Instagram Web Viewer" type="rss" xmlUrl="http://iconosquare.com/feed/yena.fit1/" htmlUrl="http://iconosquare.com/yena.fit1/"/>
+      <outline text="euddeume_'s photos | Iconosquare - Instagram Web Viewer" title="euddeume_'s photos | Iconosquare - Instagram Web Viewer" type="rss" xmlUrl="http://iconosquare.com/feed/euddeume_" htmlUrl="http://iconosquare.com/euddeume_"/>
+      <outline text="hyo_1013/'s photos | Iconosquare - Instagram Web Viewer" title="hyo_1013/'s photos | Iconosquare - Instagram Web Viewer" type="rss" xmlUrl="http://iconosquare.com/feed/hyo_1013/" htmlUrl="http://iconosquare.com/hyo_1013/"/>
     </outline>
     <outline text="Entertainment - kpop" title="Entertainment - kpop">
       <outline text="Daily K Pop News | Latest K-Pop News" title="Daily K Pop News | Latest K-Pop News" type="rss" xmlUrl="http://www.dkpopnews.net/feeds/posts/default" htmlUrl="http://www.dkpopnews.net/"/>
